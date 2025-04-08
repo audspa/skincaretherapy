@@ -1,0 +1,17 @@
+body {
+  background-color:#f5f1e8;
+}
+#business {
+  color:#ad43c3;
+  text-shadow: 2px 3px 5px #666;
+  font-size: 350%;
+}
+#tagline {
+  color: #666;
+}
+.nav-link {
+  color:#ad43c3;
+}
+.active {
+  font-weight: bold;
+}
